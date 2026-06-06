@@ -34,7 +34,7 @@ const Footer = () => {
                   0256613646
                 </h6>
                 <h6>Central Region Office</h6>
-                <h6>055 317 0501</h6>
+                <h6>055 314 0501</h6>
                 <div class="contact-social">
                   <ul>
                     <li>
